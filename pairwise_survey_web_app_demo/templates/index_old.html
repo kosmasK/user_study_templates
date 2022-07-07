@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>AdVENt Plant Classification - Demo JavaScript client</title>
+
+    <!-- Import icons and CSS styling -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/styles.css">
+
+    <!-- Import tensorflow.js and jquery-->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
+
+
+</head>
+<body>
+
+    <!-- Control Buttons -->
+    <div class="button-group">
+            
+        <input id="file-input" type="file" style="display:none">
+        <button id="btn-input" type="button" class="material-icons" title="Load Image" >image_search</button> 
+        <button id="btn-start" type="button" class="material-icons" title="Open Camera ">add_a_photo</button>
+        <button id="btn-stop" type="button" class="material-icons" title="Stop Camera">stop</button>
+        <button id="btn-capture" type="button" class="material-icons" title="Capture">camera_alt</button>
+        <button id="btn-classify" type="submit" name="classify" class="material-icons" title="Classify>"<i class="material-icons">input</i></button>
+        <span id="tfserving-status"></span>
+
+        
+    </div>
+    
+    
+    <!-- Video Element & Canvas -->
+    <div class="play-area">
+    
+    <div class="play-area-sub">
+        <h3>The Capture</h3>
+        <canvas id="capture" width="240" height="240"></canvas>
+        <div id="snapshot"></div>
+    </div>
+
+    <div class="play-area-sub">
+        <h3>The Stream</h3>
+        <video id="stream" width="320" height="240"></video>
+    </div>
+    
+    </div>
+
+    <script src="/static/js/image_classification_script.js" charset="utf-8"></script>
+
+</body>
+
+</html>

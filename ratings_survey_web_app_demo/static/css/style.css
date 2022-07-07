@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+
+body{
+    background-color: #b9b08d;
+}
+
+img {
+    vertical-align: middle;
+    display: inline;
+    max-height:40px;
+    max-width:268px;
+    min-width:40px;
+    height:auto;
+    width:auto;
+}
+
+
+.mainCont{
+    max-width: 800px;
+    margin: auto;
+    
+}
+
+/* table, td ,th {
+    text-align: center;
+    vertical-align: middle;
+} */
+
+.footer{
+    width: 100%;
+    background-color: #d8e1e7;
+    /* border-color: #3C4F6D; */
+    border-top: 2px solid #7f7963;
+}
+
+.banners_cont{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.banners {
+    width: 100%;
+    margin: 1.2em auto;
+    text-align:center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+

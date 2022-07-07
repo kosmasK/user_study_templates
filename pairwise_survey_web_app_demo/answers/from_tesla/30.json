@@ -1,0 +1,237 @@
+{
+    "answers": {
+        "question1": "item3",
+        "question2": "item2",
+        "question3": 4,
+        "question1-1": 1,
+        "question2-1": 2,
+        "question1-2": 2,
+        "question2-2": 2,
+        "question1-3": 1,
+        "question2-3": 1,
+        "question1-4": 1,
+        "question2-4": 1,
+        "question1-5": 1,
+        "question2-5": 1,
+        "question1-6": 1,
+        "question2-6": 1,
+        "question1-7": 1,
+        "question2-7": 1,
+        "question1-8": 2,
+        "question2-8": 1,
+        "question1-9": 1,
+        "question2-9": 1,
+        "question1-10": 1,
+        "question2-10": 1,
+        "question1-11": 2,
+        "question2-11": 2,
+        "question1-12": 2,
+        "question2-12": 1,
+        "question1-13": 2,
+        "question2-13": 2,
+        "question1-14": 2,
+        "question2-14": 2,
+        "question1-15": 2,
+        "question2-15": 1,
+        "question1-16": 2,
+        "question2-16": 2,
+        "question1-17": 2,
+        "question2-17": 2,
+        "question1-18": 2,
+        "question2-18": 2,
+        "question1-19": 2,
+        "question2-19": 2,
+        "question1-20": 2,
+        "question2-20": 1,
+        "feedback": "Το ένα στυλ χορού ήτανε πιο συγκρατημενο, ενώ το άλλο έμοιαζε περισσότερο να χορεύεται από επαγγελματί χορευτή. Οπότε τις περισσότερες φορές και τα δύο ήτανε ρεαλιστικά, με τις πιο έντονες χορογραφίες να είναι πιο κοντά στο ρυθμό της μουσικής."
+    },
+    "survey": [
+        [
+            [
+                "gt",
+                "mm"
+            ],
+            2,
+            13
+        ],
+        [
+            [
+                "new",
+                "icmi"
+            ],
+            8,
+            9
+        ],
+        [
+            [
+                "gt",
+                "nips"
+            ],
+            3,
+            5
+        ],
+        [
+            [
+                "gt",
+                "new"
+            ],
+            8,
+            1
+        ],
+        [
+            [
+                "gt",
+                "nips"
+            ],
+            3,
+            10
+        ],
+        [
+            [
+                "gt",
+                "icmi"
+            ],
+            7,
+            6
+        ],
+        [
+            [
+                "mm",
+                "nips"
+            ],
+            4,
+            3
+        ],
+        [
+            [
+                "gt",
+                "mm"
+            ],
+            4,
+            3
+        ],
+        [
+            [
+                "mm",
+                "icmi"
+            ],
+            7,
+            12
+        ],
+        [
+            [
+                "new",
+                "mm"
+            ],
+            7,
+            10
+        ],
+        [
+            [
+                "nips",
+                "icmi"
+            ],
+            2,
+            11
+        ],
+        [
+            [
+                "new",
+                "nips"
+            ],
+            1,
+            6
+        ],
+        [
+            [
+                "new",
+                "icmi"
+            ],
+            8,
+            9
+        ],
+        [
+            [
+                "nips",
+                "icmi"
+            ],
+            6,
+            2
+        ],
+        [
+            [
+                "gt",
+                "new"
+            ],
+            4,
+            2
+        ],
+        [
+            [
+                "new",
+                "nips"
+            ],
+            6,
+            9
+        ],
+        [
+            [
+                "new",
+                "mm"
+            ],
+            2,
+            11
+        ],
+        [
+            [
+                "gt",
+                "icmi"
+            ],
+            1,
+            3
+        ],
+        [
+            [
+                "mm",
+                "icmi"
+            ],
+            5,
+            11
+        ],
+        [
+            [
+                "mm",
+                "nips"
+            ],
+            3,
+            4
+        ]
+    ],
+    "songs": [
+        "9_audio-",
+        "13_audio-",
+        "18_audio-",
+        "45_audio-",
+        "57_audio-",
+        "62_audio-",
+        "72_audio-",
+        "82_audio-",
+        "83_audio-"
+    ],
+    "clips": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+    ]
+}

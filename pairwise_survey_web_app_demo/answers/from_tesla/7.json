@@ -1,0 +1,237 @@
+{
+    "answers": {
+        "question1": "item2",
+        "question2": "item1",
+        "question3": 3,
+        "question1-1": 2,
+        "question2-1": 2,
+        "question1-2": 1,
+        "question2-2": 1,
+        "question1-3": 1,
+        "question2-3": 2,
+        "question1-4": 1,
+        "question2-4": 2,
+        "question1-5": 1,
+        "question2-5": 1,
+        "question1-6": 1,
+        "question2-6": 1,
+        "question1-7": 1,
+        "question2-7": 2,
+        "question1-8": 1,
+        "question2-8": 1,
+        "question1-9": 2,
+        "question2-9": 1,
+        "question1-10": 2,
+        "question2-10": 2,
+        "question1-11": 1,
+        "question2-11": 1,
+        "question1-12": 1,
+        "question2-12": 1,
+        "question1-13": 2,
+        "question2-13": 2,
+        "question1-14": 1,
+        "question2-14": 2,
+        "question1-15": 2,
+        "question2-15": 1,
+        "question1-16": 2,
+        "question2-16": 2,
+        "question1-17": 1,
+        "question2-17": 2,
+        "question1-18": 1,
+        "question2-18": 1,
+        "question1-19": 1,
+        "question2-19": 1,
+        "question1-20": 1,
+        "question2-20": 2,
+        "feedback": "- Σε κάποιες χορογραφίες όπου δεν γίνονται απότομες κινήσεις ο κεντρικός άξονας (του κορμού) έχει μια μη ρεαλιστική κλίση, είτε δεξιά είτε αριστερά. Ίσως να τεθεί κάποιο threshold (?)\n- Παρατήρησα ότι στα τραγούδια με πιο πολλά bpm (korean pop - jap) οι χορογραφίες ήταν λίγο περίεργες σε σχέση με τα πιο αργά."
+    },
+    "survey": [
+        [
+            [
+                "new",
+                "mm"
+            ],
+            4,
+            11
+        ],
+        [
+            [
+                "mm",
+                "icmi"
+            ],
+            2,
+            13
+        ],
+        [
+            [
+                "nips",
+                "icmi"
+            ],
+            4,
+            2
+        ],
+        [
+            [
+                "gt",
+                "new"
+            ],
+            4,
+            6
+        ],
+        [
+            [
+                "gt",
+                "nips"
+            ],
+            4,
+            6
+        ],
+        [
+            [
+                "mm",
+                "nips"
+            ],
+            1,
+            8
+        ],
+        [
+            [
+                "gt",
+                "icmi"
+            ],
+            2,
+            10
+        ],
+        [
+            [
+                "gt",
+                "mm"
+            ],
+            1,
+            1
+        ],
+        [
+            [
+                "gt",
+                "nips"
+            ],
+            6,
+            7
+        ],
+        [
+            [
+                "mm",
+                "icmi"
+            ],
+            5,
+            3
+        ],
+        [
+            [
+                "new",
+                "nips"
+            ],
+            3,
+            7
+        ],
+        [
+            [
+                "gt",
+                "icmi"
+            ],
+            2,
+            13
+        ],
+        [
+            [
+                "new",
+                "mm"
+            ],
+            3,
+            7
+        ],
+        [
+            [
+                "gt",
+                "mm"
+            ],
+            6,
+            2
+        ],
+        [
+            [
+                "new",
+                "nips"
+            ],
+            4,
+            8
+        ],
+        [
+            [
+                "new",
+                "icmi"
+            ],
+            3,
+            11
+        ],
+        [
+            [
+                "new",
+                "icmi"
+            ],
+            6,
+            1
+        ],
+        [
+            [
+                "mm",
+                "nips"
+            ],
+            7,
+            4
+        ],
+        [
+            [
+                "gt",
+                "new"
+            ],
+            4,
+            10
+        ],
+        [
+            [
+                "nips",
+                "icmi"
+            ],
+            6,
+            1
+        ]
+    ],
+    "songs": [
+        "9_audio-",
+        "13_audio-",
+        "18_audio-",
+        "45_audio-",
+        "57_audio-",
+        "62_audio-",
+        "72_audio-",
+        "82_audio-",
+        "83_audio-"
+    ],
+    "clips": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+    ]
+}

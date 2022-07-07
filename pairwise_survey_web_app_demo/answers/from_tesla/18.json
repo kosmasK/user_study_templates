@@ -1,0 +1,236 @@
+{
+    "answers": {
+        "question1": "item2",
+        "question2": "item1",
+        "question3": 4,
+        "question1-1": 1,
+        "question2-1": 1,
+        "question1-2": 1,
+        "question2-2": 1,
+        "question1-3": 1,
+        "question2-3": 2,
+        "question1-4": 1,
+        "question2-4": 1,
+        "question1-5": 1,
+        "question2-5": 1,
+        "question1-6": 1,
+        "question2-6": 2,
+        "question1-7": 1,
+        "question2-7": 1,
+        "question1-8": 1,
+        "question2-8": 1,
+        "question1-9": 1,
+        "question2-9": 2,
+        "question1-10": 1,
+        "question2-10": 1,
+        "question1-11": 2,
+        "question2-11": 2,
+        "question1-12": 2,
+        "question2-12": 2,
+        "question1-13": 1,
+        "question2-13": 1,
+        "question1-14": 2,
+        "question2-14": 2,
+        "question1-15": 1,
+        "question2-15": 1,
+        "question1-16": 1,
+        "question2-16": 1,
+        "question1-17": 2,
+        "question2-17": 2,
+        "question1-18": 1,
+        "question2-18": 1,
+        "question1-19": 1,
+        "question2-19": 1,
+        "question1-20": 1,
+        "question2-20": 1
+    },
+    "survey": [
+        [
+            [
+                "mm",
+                "icmi"
+            ],
+            7,
+            5
+        ],
+        [
+            [
+                "mm",
+                "nips"
+            ],
+            3,
+            9
+        ],
+        [
+            [
+                "nips",
+                "icmi"
+            ],
+            8,
+            7
+        ],
+        [
+            [
+                "gt",
+                "nips"
+            ],
+            5,
+            9
+        ],
+        [
+            [
+                "mm",
+                "nips"
+            ],
+            1,
+            1
+        ],
+        [
+            [
+                "new",
+                "icmi"
+            ],
+            7,
+            5
+        ],
+        [
+            [
+                "gt",
+                "nips"
+            ],
+            5,
+            4
+        ],
+        [
+            [
+                "gt",
+                "mm"
+            ],
+            8,
+            10
+        ],
+        [
+            [
+                "mm",
+                "icmi"
+            ],
+            3,
+            12
+        ],
+        [
+            [
+                "gt",
+                "new"
+            ],
+            2,
+            12
+        ],
+        [
+            [
+                "gt",
+                "mm"
+            ],
+            8,
+            9
+        ],
+        [
+            [
+                "new",
+                "mm"
+            ],
+            5,
+            12
+        ],
+        [
+            [
+                "gt",
+                "new"
+            ],
+            2,
+            7
+        ],
+        [
+            [
+                "new",
+                "nips"
+            ],
+            4,
+            4
+        ],
+        [
+            [
+                "new",
+                "nips"
+            ],
+            4,
+            3
+        ],
+        [
+            [
+                "gt",
+                "icmi"
+            ],
+            1,
+            6
+        ],
+        [
+            [
+                "nips",
+                "icmi"
+            ],
+            1,
+            13
+        ],
+        [
+            [
+                "gt",
+                "icmi"
+            ],
+            1,
+            2
+        ],
+        [
+            [
+                "new",
+                "mm"
+            ],
+            6,
+            5
+        ],
+        [
+            [
+                "new",
+                "icmi"
+            ],
+            2,
+            8
+        ]
+    ],
+    "songs": [
+        "9_audio-",
+        "13_audio-",
+        "18_audio-",
+        "45_audio-",
+        "57_audio-",
+        "62_audio-",
+        "72_audio-",
+        "82_audio-",
+        "83_audio-"
+    ],
+    "clips": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+    ]
+}
